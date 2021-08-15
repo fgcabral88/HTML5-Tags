@@ -1,0 +1,1 @@
+alet('Isto é um alert!')
